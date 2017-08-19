@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android</string>
+    <string name="title_activity_login_antivity">LoginAntivity</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+</resources>
